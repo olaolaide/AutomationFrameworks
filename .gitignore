@@ -1,0 +1,39 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Config transforms
+*.config.*
+
